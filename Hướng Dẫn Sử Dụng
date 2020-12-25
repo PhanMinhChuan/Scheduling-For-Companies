@@ -1,0 +1,12 @@
+					HƯỚNG DẪN SỬ DỤNG
++ TRANG ADMIN
+	1/ Đăng nhập admin vào bằng tài khoản: "username" = "admin", "password" = "123456"
+	2/ Có thể theo giỏi hai danh sách về user và công việc (VD: Add, Edit, Update,...)
+	3/ Tìm kiếm theo các danh sách (VD: Các công việc chưa hoàn thành, tìm kiếm theo các ID,...)
+	4/ Tìm kiếm theo từ khóa
++ TRANG USER (Mobile)
+	1/ Đăng nhập tài khoản của người dùng (VD: "username" = "PhanMinhChuan", "password" = "123456" )
+	2/ Có thể xem danh sách các công việc của bản thân
+	3/ Báo cáo tiến độ khi công việc đã hoàn thành
+
+	
