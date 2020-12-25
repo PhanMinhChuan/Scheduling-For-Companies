@@ -1,0 +1,101 @@
+.marginLeft {
+    margin-top: 30px;
+    margin-left: 650px;
+}
+
+#DeletedButton {
+    margin-left: 10px;
+    background-color: darkorange;
+}
+
+#DeletedButton {
+    margin-left: 10px;
+    background-color: darkorange;
+}
+#UpdatedButton {
+    background-color: deeppink;
+}
+
+.LogoutButton {
+    color: #fff;
+    background-color: darkviolet;;
+    border-color: #f33155;
+    -webkit-box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);
+    box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);
+    margin-right: 20px;
+}
+
+#notDoneBtn {
+    float: left;
+    margin-bottom: 30px;
+    background-color: grey;
+    border-color: blueviolet;
+    margin-right: 53px;
+    margin-top: 20px;
+}
+
+#dropDownCssMe {
+    display: block;
+    padding: 3px 20px;
+    clear: both;
+    font-weight: 400;
+    line-height: 1.42857143;
+    color: #333;
+    white-space: nowrap;
+}
+
+ul.scroll-menu {
+    height: auto;
+    max-height: 200px;
+    overflow-x: hidden;
+}
+
+#dropbyMe {
+    float: right;
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    background-color: grey;
+    color: white;
+}
+#dropbyMe1 {
+    float: left;
+    background-color: hotpink;
+    color: white;
+    height: 37px;
+    width: 145px;
+}
+#dropbyMe2 {
+    float: left;
+    background-color: hotpink;
+    color: white;
+    height: 37px;
+    width: 145px;
+    margin-left: 10px;
+}
+
+.wrapper{
+    width: 190px;
+    height: 40px;
+}
+.mul-select{
+    width: 100%;
+    margin-top: 40px;
+}
+
+#cssMe {
+    width: 51.5%;
+}
+
+#dataStatus {
+    width: 40%;
+}
+
+#logOutBtn {
+    margin-left: 20px;
+    background-color: cadetblue;
+}
+
+.tableMe {
+    color: #797979;
+}
